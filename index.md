@@ -5,11 +5,18 @@
 
 # Plan for Success! 
 
-### The goal for the next email check in is to have a plan for how to proceed with our project
+1. Refresh slicer memories by completing the tutorials given on the assignment page
+2. Download data
+3. Compare segmentation methods
+4. Finalize strategy and begin coding
+  - Create a new extension and module
+5. Create slides before final week of classes
 
 # Danielle's Contribution:
 ### _March 6, 2017_
 - Created wiki page with base content 
+### _March 7, 2017_
+- Created our plan for success! 
 
 # Rachel's Contribution: 
 
