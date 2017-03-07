@@ -15,6 +15,7 @@
 # Danielle's Contribution:
 ### _March 6, 2017_
 - Created wiki page with base content 
+
 ### _March 7, 2017_
 - Created our plan for success! 
 
