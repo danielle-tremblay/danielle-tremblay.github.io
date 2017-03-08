@@ -19,6 +19,11 @@
 ### _March 7, 2017_
 - Created our plan for success! 
 
+### _March 8. 2017_
+- Finished slicer tutorials, memory has been refreshed! 
+- Downloaded data
+- Goal for over the weekend is to compare and select a segmentation method to apply as well as creating a new extension and module
+
 # Rachel's Contribution: 
 
 # `Useful Code` 
