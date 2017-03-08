@@ -21,4 +21,8 @@
 
 # Rachel's Contribution: 
 
+### _March 7, 2017_
+- Completed the 'Hello Python Programming Tutorial' from slicer.org
+- Downloaded the SpineData from OneDrive
+
 # `Useful Code` 
