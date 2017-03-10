@@ -26,5 +26,5 @@
 - Downloaded the SpineData from OneDrive
 
 ### _March 10, 2017_
--Completed the 'Hello Python Tutorial using a Laplacian Filtering and Sharpening'
+- Completed the 'Hello Python Tutorial using a Laplacian Filtering and Sharpening'
 # `Useful Code` 
