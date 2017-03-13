@@ -10,7 +10,9 @@
 3. Compare segmentation methods
 4. Finalize strategy and begin coding
   - Create a new extension and module
+  - Apply thresholding (k-means)
 5. Create slides before final week of classes
+  - Tibia CT with k-means applied should be included 
 
 # Danielle's Contribution:
 ### _March 6, 2017_
@@ -24,6 +26,12 @@
 - Downloaded data
 - Goal for over the weekend is to compare and select a segmentation method to apply as well as creating a new extension and module
 
+### _March 12, 2017_
+- Created Project module and extension 
+- Updated plan for success
+- Created additional information on K-means (Can be used in our presentation)
+- Uploaded CT of before and after application of K-means (Can be used in our presentation)
+
 # Rachel's Contribution: 
 
 ### _March 7, 2017_
@@ -32,4 +40,9 @@
 
 ### _March 10, 2017_
 - Completed the 'Hello Python Tutorial using a Laplacian Filtering and Sharpening'
+
 # `Useful Code` 
+
+## K-Means Information
+- Aims to partition n-observations into k-clusters
+- Good for medical imaging because this allows for the distinction of different tissues, in our case we can differentiate spinal bone from different soft tissues 
