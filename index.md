@@ -32,6 +32,10 @@
 - Created additional information on K-means (Can be used in our presentation)
 - Uploaded CT of before and after application of K-means (Can be used in our presentation)
 
+### _March 13, 2017_
+- Tried to apply the k-means "Simple Filter" from the filters module in slicer but it wasn't working (spent about an hour waiting and trying different things, will ask about this in class tomorrow)
+- Added a load data button, when clicked this should prompt the user to load their image. I wasn't able to test this because for some reason everytime I create a module I can't find it in slicer after (Spent a while trying to figure this out, will ask about this in class tomorrow)
+
 # Rachel's Contribution: 
 
 ### _March 7, 2017_
