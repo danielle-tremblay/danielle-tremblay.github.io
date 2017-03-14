@@ -1,0 +1,13 @@
+Testing Laplace Filter
+  1. Open Slicer3D
+  2. Load ‘Laplace Filter’ module, if not already loaded
+    -Go to ‘Edit’ —>  ‘Application Settings’
+    -Click on ‘Modules’ tab
+    -Extended the section ‘Additional module paths’
+    -Click ‘Add’
+    -Select path where module is found
+  3. In module selection, select ‘Examples’ —> ‘Laplace Filter’
+  4. Drag desired image to filter into Slicer3D
+  5. On left-hand side, in ‘Output Volume’, select ‘Create new volume’
+  6. Click ‘Apply Laplace’
+  The image should be all grey with a little bit of white outlining.
