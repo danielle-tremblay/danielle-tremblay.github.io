@@ -42,7 +42,7 @@
 - Updated plan for success
 - Found 3D slicer code that will allow us to create our own custom user interface, allowing for a more genuine software feel: 
 https://www.slicer.org/wiki/Documentation/Nightly/Developers/Slicelets
-- Followed a tutorial that allows you to modify the image pixels, I applied their code to the CT image (Both the image and code can be found in the repository) using different starting intensities and I actually got some pretty great results. Will ask tomorrow if I should keep segmenting or stop here.  
+- Followed a tutorial that allows you to modify the image pixels, I applied their code to the CT image (Both the image and code can be found in the repository) using different starting intensities and I actually got some pretty great results. Will ask tomorrow if I should keep segmenting or stop here. If not we could apply some of the ikt simple filters before and try the combinations of my code with that.  
 
 # Rachel's Contribution: 
 
