@@ -53,6 +53,9 @@ https://www.slicer.org/wiki/Documentation/Nightly/Developers/Slicelets
 ### _March 10, 2017_
 - Completed the 'Hello Python Tutorial using a Laplacian Filtering and Sharpening'
 
+### _March 13, 2017_
+- Created a module that applies a Laplace Filter to the spine data
+- Created a testing document for using this filter
 # `Useful Code` 
 
 ## K-Means Information
