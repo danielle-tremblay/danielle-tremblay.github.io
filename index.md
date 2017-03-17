@@ -11,6 +11,8 @@
 4. Finalize strategy and begin coding
   - Create a new extension and module
   - Apply thresholding (k-means)
+  - Apply edge-detection 
+  - Create GUI if time allows 
 5. Create slides before final week of classes
   - Tibia CT with k-means applied should be included 
 
@@ -35,6 +37,12 @@
 ### _March 13, 2017_
 - Tried to apply the k-means "Simple Filter" from the filters module in slicer but it wasn't working (spent about an hour waiting and trying different things, will ask about this in class tomorrow)
 - Added a load data button, when clicked this should prompt the user to load their image. I wasn't able to test this because for some reason everytime I create a module I can't find it in slicer after (Spent a while trying to figure this out, will ask about this in class tomorrow)
+
+### _March 16, 2017_
+- Updated plan for success
+- Found 3D slicer code that will allow us to create our own custom user interface, allowing for a more genuine software feel: 
+https://www.slicer.org/wiki/Documentation/Nightly/Developers/Slicelets
+- Followed a tutorial that allows you to modify the image pixels, I applied their code to the CT image (Both the image and code can be found in the repository) using different starting intensities and I actually got some pretty great results. Will ask tomorrow if I should keep segmenting or stop here.  
 
 # Rachel's Contribution: 
 
