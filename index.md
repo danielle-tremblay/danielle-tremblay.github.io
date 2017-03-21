@@ -64,6 +64,14 @@ https://www.slicer.org/wiki/Documentation/Nightly/Developers/Slicelets
 ### _March 13, 2017_
 - Created a module that applies a Laplace Filter to the spine data
 - Created a testing document for using this filter
+
+### _March 16, 2017_
+- Tested 15-20 filters in the Simple Filters module to determine which simple filters as well as which settings for those filters would be best to add to our code 
+- Took screenshots of the top 6 best filters that would suit our needs
+
+### _March 20, 2017_
+- Tested all the hole filling filters in the Simple Filters module to determine which one would fill in the bone but keep the vertebrae sepearate
+
 # `Useful Code` 
 
 ## K-Means Information
