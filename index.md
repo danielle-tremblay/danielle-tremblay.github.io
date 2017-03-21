@@ -10,11 +10,15 @@
 3. Compare segmentation methods
 4. Finalize strategy and begin coding
   - Create a new extension and module
-  - Apply thresholding (k-means)
-  - Apply edge-detection 
+  - Apply ShotNoiseImageFilter
+  - Apply radius deletion 
+  - Apply hole filler filter
   - Create GUI if time allows 
 5. Create slides before final week of classes
-  - Tibia CT with k-means applied should be included 
+  - Steps we took 
+  - Explanation of final filters used
+  - Look at our git pages website
+  - Project demo
 
 # Danielle's Contribution:
 ### _March 6, 2017_
@@ -42,7 +46,11 @@
 - Updated plan for success
 - Found 3D slicer code that will allow us to create our own custom user interface, allowing for a more genuine software feel: 
 https://www.slicer.org/wiki/Documentation/Nightly/Developers/Slicelets
-- Followed a tutorial that allows you to modify the image pixels, I applied their code to the CT image (Both the image and code can be found in the repository) using different starting intensities and I actually got some pretty great results. Will ask tomorrow if I should keep segmenting or stop here. If not we could apply some of the ikt simple filters before and try the combinations of my code with that.  
+- Followed a tutorial that allows you to modify the image pixels, I applied their code to the CT image (Both the image and code can be found in the repository) using different starting intensities and I actually got some pretty great results. Will ask tomorrow if I should keep segmenting or stop here. If not we could apply some of the ikt simple filters before and try the combinations of my code with that. 
+
+### _March 20, 2017_
+- Updated plan for success
+- Applied code that allows us to access the Simple ITK filters in 3D slicer 
 
 # Rachel's Contribution: 
 
