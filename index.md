@@ -50,7 +50,10 @@ https://www.slicer.org/wiki/Documentation/Nightly/Developers/Slicelets
 
 ### _March 20, 2017_
 - Updated plan for success
-- Applied code that allows us to access the Simple ITK filters in 3D slicer 
+- Applied code that allows us to access the Simple ITK filters in 3D slicer
+
+### _March 21, 2017_
+- Applied another filter in the module code, when you click "apply" everything works how it should now 
 
 # Rachel's Contribution: 
 
