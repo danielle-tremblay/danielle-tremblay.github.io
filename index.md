@@ -11,13 +11,14 @@
 4. Finalize strategy and begin coding
   - Create a new extension and module
   - Apply ShotNoiseImageFilter
-  - Apply radius deletion 
+  - Apply OtsuFilter
   - Apply hole filler filter
+  - Crop final Image
   - Create GUI if time allows 
 5. Create slides before final week of classes
   - Steps we took 
   - Explanation of final filters used
-  - Look at our git pages website
+  - What we wished we could have done differently/accomplished 
   - Project demo
 
 # Danielle's Contribution:
@@ -54,6 +55,11 @@ https://www.slicer.org/wiki/Documentation/Nightly/Developers/Slicelets
 
 ### _March 21, 2017_
 - Applied another filter in the module code, when you click "apply" everything works how it should now 
+
+### _March 23, 2017_
+- Applied our final filter in the module
+- Trying to get a good crop of the image, but have not been successful thus far
+- Updated the plan for success
 
 # Rachel's Contribution: 
 
